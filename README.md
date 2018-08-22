@@ -17,4 +17,5 @@ I learned about following things while designing the app:
 9.	Creating a button and adding a listener for it.
 10.	Basics of Design and text editing.
 
- 
+# Video Walkthrough
+<a href="https://imgur.com/8A2EPTQ"><img src="https://i.imgur.com/8A2EPTQ.gif" title="source: imgur.com" width="300" height="500" /></a>
