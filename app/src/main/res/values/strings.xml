@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FunFacts</string>
+    <string name="heading">Did you Know?</string>
+    <string name="fact">Ants strecth when they wake up</string>
+</resources>
